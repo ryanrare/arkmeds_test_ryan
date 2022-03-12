@@ -17,13 +17,13 @@
 Com o projeto clonado, e as depêndencias instaladas devidamente:
 ### no terminal:
 
-#### 1 - copie um arquivo CSV no identado como no teste, e cole no terminal.
+#### 1 - copie um arquivo CSV como no teste, e cole no terminal.
 - 1- Abra um terminal na raiz do projeto e execute o seguinte comando:
 - `python3 core/__main__.py`
 - vai aparecer uma mensagem pedindo o path do arquivo
 - (algumas versoes do linux, basta copiar e colar (ctrlC + ctrlV) o arquivo csvs) no terminal.
 - ### se o passo um deu errado:
-- cole seu arquivo na raiz do projeto: arkmemeds_test_estagio/cole_aqui
+- cole seu arquivo na raiz do projeto: arkmeds_test_estagio/cole_aqui
 - abra um terminal na raiz do projeto e digite:
 - `readlink -f nome_do_seu_arquivo`
 - copie o path que aparecer, e rode o programa, colando esse path.
@@ -37,7 +37,7 @@ Com o projeto clonado, e as depêndencias instaladas devidamente:
 - fazendo isso, todos os testes irão passar.
 
 ### Na IDE (Recomendo o pycharm):
-- 1- Basta colar um arquivo .csv dentro da pasta `core`
+- 1- Basta colar um arquivo .csv dentro da pasta `core`, copiar o path dele pela propria IDE, ou seguindo os passos acima,
 
 ### importante:
 - ##### 2- substituir o nome do arquivo na linha 10 pelo nome do arquivo que foi colado la (entre aspas simples)
