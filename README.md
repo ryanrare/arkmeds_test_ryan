@@ -6,7 +6,7 @@
 - certifique-se de que tenha o [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) instalado no seu computador
 - certifique-se de que tenha o [python3](https://www.python.org/downloads/) instalado em seu computador
 - navegue até um diretorio de sua preferência, abra um terminal e digite:
-- `git clone link-so-seu-projeto`
+- `git clone https://github.com/ryanrare/arkmeds_test_ryan.git`
 - Ou se preferir, basta clicar [aqui](https://github.com/ryanrare/arkmeds_test_ryan/archive/refs/heads/main.zip) para baixar o zip do programa.
 - Se quiser efetuar os testes, basta dar um `pip install -r requirements.txt` na raiz do projeto
   (ou Apenas rodar o comando `pip install pytest`)
